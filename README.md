@@ -1,1 +1,2 @@
-# Ai-LAB
+# Artificial Intelligence Lab
+Experiments 1 - 12
